@@ -99,6 +99,6 @@ Lifelines: Modelos de supervivencia.
 ## Autoría
 
 Vanessa Camaggi: vcamaggig@udd.cl 
-Adrián Alexis Espinoza Arévalo: vcamaggig@udd.cl 
+Adrián Alexis Espinoza Arévalo: a.espinozaa@udd.cl 
 Miguel Angel Segovia: m.segoviac@udd.cl 
 Ricardo Castro Vera: rcastrov@udd.cl 
